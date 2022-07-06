@@ -1,9 +1,9 @@
 .standard {
     background-color:  rgb(228, 131, 131);
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
 }
 .standard.third {
-    font-size: 36px;
+    font-size: 24px;
 }
 #second {
     color: rgb(50, 50, 170);
